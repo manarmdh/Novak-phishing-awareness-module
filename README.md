@@ -7,7 +7,3 @@ Python
 Scikit-learn
 Pandas
 NumPy
-▶️ Run
-Copy code
-
-python phishing.py
